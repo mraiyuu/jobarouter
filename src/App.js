@@ -58,4 +58,4 @@ function App() {
 
 export default App;
 
-//json-server -p 4000 watch ./data/db.json
+//json-server -p 4000 -w ./data/db.json
